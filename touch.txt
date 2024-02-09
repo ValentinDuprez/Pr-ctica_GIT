@@ -1,3 +1,6 @@
 Testeo
 jejejeje
+<<<<<<< HEAD
 Qubiq
+=======
+>>>>>>> e386c99 (Reset paso 11)
